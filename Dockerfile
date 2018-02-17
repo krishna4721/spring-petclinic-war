@@ -1,4 +1,4 @@
-FROM tomcat:7-jre8 
+FROM tomcat 
 MAINTAINER shivaramakrishnathota@gmail.com 
 #COPY 
 ADD petclinic.war /usr/local/tomcat/webapps/
