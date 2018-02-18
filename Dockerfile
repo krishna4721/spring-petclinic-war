@@ -10,6 +10,7 @@ CMD  ["catalina.sh", "run"]
 
 
 #NOTE: This is For automate the docker image build & container run process usin jenkis
+#Just add this bellow content to execute shell coloum in jenkins build step
 
 #senario : want to automate build a docker image with latest tag_num devoloper every sucessfull commot & build 
 
