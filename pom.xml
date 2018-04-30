@@ -481,9 +481,9 @@
         <distributionmanagment>     
 
      <reposirtory>
-     <id>releases</id>
-     <name>Releases</name>  
-     <url>http://localhost:8081/nexus/content/repositories/releases/ </url>
+     <id>krishna</id>
+     <name>Krishna</name>  
+     <url>http://localhost:8081/nexus/content/repositories/krishna/ </url>
      </repository>
              	
         <snapshotsrepository>
