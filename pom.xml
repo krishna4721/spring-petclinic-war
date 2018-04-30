@@ -474,10 +474,9 @@
             </dependencies>
         </profile>
    </profiles>
-
-    <url>demopetclinic</url>
-   <distributionmanagment>     
-
+<url>demopetclinic</url>
+  ...
+ <distributionmanagment>     
      <reposirtory>
      <id>krishna</id>
      <name>Krishna</name>  
@@ -489,9 +488,6 @@
         <name>Snapshots</name>  
         <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
          </snapshotsrepository>
-             
-</distributionmanagment>   
+</distributionmanagment> 
+ ...    
 </project>
-          
-         
-
