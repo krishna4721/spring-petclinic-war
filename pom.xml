@@ -476,20 +476,5 @@
    </profiles>
 
     <url>demopetclinic</url>
-            <distributionmanagment>     
-       <reposirtory>
-     <id>krishna</id>
-     <name>Krishna</name>  
-     <url>http://localhost:8081/nexus/content/repositories/krishna/</url>
-     </repository>
-             	
-        <snapshotsrepository>
-        <id>snapshots</id>
-        <name>Snapshots</name>  
-        <url>http://localhost:8081/nexus/content/repositories/snapshots/ </url>
-         </snapshotsrepository>
-             
-      </distributionmanagment>     
-         
-
+   
 </project>
